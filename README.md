@@ -22,7 +22,7 @@ I enjoy building practical web applications, learning modern technologies, and s
 
 
 ---
-
+<div align="left">
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **K.S. Rangasamy College of Technology**.
@@ -32,7 +32,7 @@ I enjoy building practical web applications, learning modern technologies, and s
 - 🧩 I enjoy turning ideas into useful applications and continuously improving my technical skills.
 - 📍 Based in Tamil Nadu, India.
 - 🎯 Career goal: To contribute to a development team, learn from real-world projects, and grow as a software engineer.
-
+</div>
 ---
 
 
@@ -71,8 +71,10 @@ I enjoy building practical web applications, learning modern technologies, and s
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HariharanSakthi18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hariharan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariharanSakthi18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+![](https://github-readme-stats.shion.dev/api?username=HariharanSakthi18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HariharanSakthi18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HariharanSakthi18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 <div align="center">
