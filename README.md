@@ -20,7 +20,7 @@ I enjoy building practical web applications, learning modern technologies, and s
 </a>
 </p>
 
-
+</div>
 ---
 <div align="left">
 ## 👨‍💻 About Me
@@ -123,4 +123,4 @@ I'm interested in connecting with developers, learning from experienced professi
 </a>
   <br><br>
   <i>"Keep learning, keep building, and keep improving."</i>
-</div>
+
