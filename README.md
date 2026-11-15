@@ -35,33 +35,36 @@ I enjoy building practical web applications, learning modern technologies, and s
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Python, Java and JavaScript">
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Python, Java, JavaScript">
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap and React">
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React">
 </p>
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,mysql" alt="Flask and MySQL">
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,mysql,postgresql" alt="Flask, MySQL, PostgreSQL">
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel">
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws" alt="Git, GitHub, VS Code, Vercel, Netlify, AWS">
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-Working%20knowledge-6DB33F?style=flat-square" alt="REST APIs">
-  <img src="https://img.shields.io/badge/SQL-Working%20knowledge-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Generative%20AI-Learning-8A2BE2?style=flat-square" alt="Generative AI">
+### 🔗 APIs & AI Tools
+<p align="left">
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="REST API">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/ai-generated-code.png" alt="AI Generated Code">
+  <img width="48" height="48" src="https://img.icons8.com/emoji/48/claude-ai.png" alt="Claude AI">
 </p>
+
 
 ---
 
@@ -77,10 +80,35 @@ A personal website showcasing my profile, technical skills, certifications, and 
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Live%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hariharan-website.vercel.app/)
 
-### 💡 More Projects
-I have also worked on projects including a DMart-inspired shopping website, Gaming Hub, Nexus Mission Control Todo, and Canny Edge Detection. Explore my repositories to see the code and project details.
 
-[![Explore Repositories](https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/HariharanSakthi18?tab=repositories)
+### 💡 More Projects
+
+I enjoy building projects, exploring new technologies, and transforming ideas into practical applications.
+
+Some of the projects I have worked on and explored include:
+
+- 🛍️ **PosterPop** – Full-stack poster-selling e-commerce website using Python, Flask, MySQL, and REST APIs.
+- 🛒 **DMart Clone** – E-commerce website inspired by DMart.
+- 🎮 **Gaming Hub** – Interactive gaming-focused web application.
+- ✅ **Nexus Mission Control Todo** – Task management application.
+- 🧠 **Canny Edge Detection** – Image processing project using Canny and Sobel edge detection algorithms.
+- 🤖 **Generative AI Projects** – Exploring Generative AI, prompt engineering, and AI-powered applications.
+- 📄 **Smart Document Q&A System** – Exploring document-based question answering using RAG.
+- 🚦 **Smart Civic Issue Reporter** – AI-powered concept for reporting civic issues such as faulty streetlights and traffic signals.
+- 🤟 **Sign Language Translator** – Exploring sign language recognition and translation.
+
+🚀 I'm continuously developing new projects, learning emerging technologies, and improving my problem-solving skills.
+
+Explore my GitHub repositories to discover my projects, source code, and ongoing development journey.
+
+<div align="center">
+
+<a href="https://github.com/HariharanSakthi18?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects">
+</a>
+
+</div>
+
 
 ---
 
