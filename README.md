@@ -25,9 +25,10 @@ I enjoy building practical web applications, learning modern technologies, and s
 
 ## 👨‍💻 About Me
 <div align="left">
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **K.S. Rangasamy College of Technology**.
-- 🎓 Graduated with a **B.Sc. in Information Technology** from **KPR College of Arts, Science and Research**.
-- 💻 Completed Full Stack Development training/internship at **Besant Technologies, Bengaluru**.
+- 🎓 Currently pursuing Master of Computer Applications (MCA) at K.S. Rangasamy College of Technology.
+- 🎓 Graduated with a B.Sc. in Information Technology from KPR College of Arts, Science and Research.
+- 🤖 Currently working as an AI Full Stack Engineer Intern at Artificial Augment Technologies, Salem.
+- 💻 Completed Full Stack Development training/internship at Besant Technologies, Bengaluru.
 - 🚀 Interested in software development, full stack web development, and Generative AI.
 - 🧩 I enjoy turning ideas into useful applications and continuously improving my technical skills.
 - 📍 Based in Tamil Nadu, India.
