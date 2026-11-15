@@ -16,7 +16,7 @@ I enjoy building practical web applications, learning modern technologies, and s
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://portfolio-hariharan-website.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=HariharanSakthi18&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views">
