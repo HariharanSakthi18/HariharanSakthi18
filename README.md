@@ -20,7 +20,7 @@ I enjoy building practical web applications, learning modern technologies, and s
 </a>
 </p>
 
-</div>
+
 ---
 <div align="left">
 ## 👨‍💻 About Me
@@ -46,16 +46,20 @@ I enjoy building practical web applications, learning modern technologies, and s
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 </p>
 
 ### ⚙️ Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,mysql,postgresql" alt="Flask, MySQL, PostgreSQL">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/supabase.png" alt="supabase"/>
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws" alt="Git, GitHub, VS Code, Vercel, Netlify, AWS">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </p>
 
 ### 🔗 APIs & AI Tools
@@ -123,4 +127,4 @@ I'm interested in connecting with developers, learning from experienced professi
 </a>
   <br><br>
   <i>"Keep learning, keep building, and keep improving."</i>
-
+</div>
