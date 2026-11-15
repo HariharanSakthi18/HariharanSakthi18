@@ -6,19 +6,20 @@
 
 I enjoy building practical web applications, learning modern technologies, and solving real-world problems through code.
 
+<p>
 <a href="https://leetcode.com/u/HariharanSakthi/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+  
+<a href="https://www.hackerrank.com/profile/hariharansakthi6">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
 </a>
 
- <a href="https://www.hackerrank.com/profile/hariharansakthi6">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+<a href="https://www.codechef.com/users/hariharann25">
+<img src="https://img.shields.io/badge/CodeChef-B92B27?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
+</p>
 
-
-
-
-
-</div>
 
 ---
 
@@ -143,7 +144,6 @@ I'm interested in connecting with developers, learning from experienced professi
   <a href="https://www.instagram.com/__hariharan.___/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
 <a href="https://portfolio-hariharan-website.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </a>
