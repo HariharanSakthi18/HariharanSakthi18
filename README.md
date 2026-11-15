@@ -6,15 +6,22 @@
 
 I enjoy building practical web applications, learning modern technologies, and solving real-world problems through code.
 
-<a href="mailto:hariharansakthivel18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hariharan">
-</a>
 <a href="https://www.linkedin.com/in/hariharan-s-30031a248/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+<a href="https://leetcode.com/u/HariharanSakthi/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a>
+
+<a href="(https://www.linkedin.com/in/hariharan-s-30031a248/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <a href="https://www.instagram.com/__hariharan.___/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
 <a href="https://portfolio-hariharan-website.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </a>
