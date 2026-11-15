@@ -6,25 +6,17 @@
 
 I enjoy building practical web applications, learning modern technologies, and solving real-world problems through code.
 
-<a href="https://www.linkedin.com/in/hariharan-s-30031a248/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 <a href="https://leetcode.com/u/HariharanSakthi/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
 </a>
 
-<a href="(https://www.linkedin.com/in/hariharan-s-30031a248/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.hackerrank.com/profile/hariharansakthi6">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
 </a>
 
-<a href="https://www.instagram.com/__hariharan.___/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
 
-<a href="https://portfolio-hariharan-website.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</a>
+
+
 
 </div>
 
@@ -142,6 +134,19 @@ I'm interested in connecting with developers, learning from experienced professi
   <a href="mailto:hariharansakthivel18@gmail.com">
     <img src="https://img.shields.io/badge/Email-hariharansakthivel18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
   </a>
+  <a href="https://www.linkedin.com/in/hariharan-s-30031a248/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+  <a href="(https://www.linkedin.com/in/hariharan-s-30031a248/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  <a href="https://www.instagram.com/__hariharan.___/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://portfolio-hariharan-website.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</a>
   <br><br>
   <i>"Keep learning, keep building, and keep improving."</i>
 </div>
