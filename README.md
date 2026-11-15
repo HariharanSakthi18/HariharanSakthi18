@@ -39,28 +39,28 @@ I enjoy building practical web applications, learning modern technologies, and s
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js" alt="Python, Java, JavaScript">
 </p>
 
 ### 🎨 Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React">
 </p>
 
 ### ⚙️ Backend & Database
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flask,mysql,postgresql" alt="Flask, MySQL, PostgreSQL">
 </p>
 
 ### 🔧 Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws" alt="Git, GitHub, VS Code, Vercel, Netlify, AWS">
 </p>
 
 ### 🔗 APIs & AI Tools
-<p align="left">
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="REST API">
+<p align="center">
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/api-settings.png" alt="REST API"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/ai-generated-code.png" alt="AI Generated Code">
   <img width="48" height="48" src="https://img.icons8.com/emoji/48/claude-ai.png" alt="Claude AI">
 </p>
