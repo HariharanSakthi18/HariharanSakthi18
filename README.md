@@ -68,50 +68,6 @@ I enjoy building practical web applications, learning modern technologies, and s
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛍️ PosterPop — Poster Selling Website
-A full-stack poster-selling web application built with **Python, Flask, MySQL, HTML, CSS, and JavaScript**. Includes product pages and backend functionality using REST APIs and CRUD operations.
-
-[![View PosterPop](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HariharanSakthi18/Poster-Website)
-
-### 🌐 Personal Portfolio
-A personal website showcasing my profile, technical skills, certifications, and development projects.
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Live%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hariharan-website.vercel.app/)
-
-
-### 💡 More Projects
-
-I enjoy building projects, exploring new technologies, and transforming ideas into practical applications.
-
-Some of the projects I have worked on and explored include:
-
-- 🛍️ **PosterPop** – Full-stack poster-selling e-commerce website using Python, Flask, MySQL, and REST APIs.
-- 🛒 **DMart Clone** – E-commerce website inspired by DMart.
-- 🎮 **Gaming Hub** – Interactive gaming-focused web application.
-- ✅ **Nexus Mission Control Todo** – Task management application.
-- 🧠 **Canny Edge Detection** – Image processing project using Canny and Sobel edge detection algorithms.
-- 🤖 **Generative AI Projects** – Exploring Generative AI, prompt engineering, and AI-powered applications.
-- 📄 **Smart Document Q&A System** – Exploring document-based question answering using RAG.
-- 🚦 **Smart Civic Issue Reporter** – AI-powered concept for reporting civic issues such as faulty streetlights and traffic signals.
-- 🤟 **Sign Language Translator** – Exploring sign language recognition and translation.
-
-🚀 I'm continuously developing new projects, learning emerging technologies, and improving my problem-solving skills.
-
-Explore my GitHub repositories to discover my projects, source code, and ongoing development journey.
-
-<div align="center">
-
-<a href="https://github.com/HariharanSakthi18?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects">
-</a>
-
-</div>
-
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -144,14 +100,6 @@ Explore my GitHub repositories to discover my projects, source code, and ongoing
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile">
   </a>
 </div>
-
----
-
-## 🏆 Achievements
-
-- 🥈 Secured **2nd Prize** in a Web Design event at KPR College of Arts and Science.
-- 🏅 Received **Best Program Organiser** recognition at KPR College of Arts, Science and Research (2024).
-- 🏏 Won **1st Place** in the cricket tournament at Agnitham 2025 sports meet.
 
 ---
 
