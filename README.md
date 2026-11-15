@@ -19,8 +19,6 @@ I enjoy building practical web applications, learning modern technologies, and s
   <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=HariharanSakthi18&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views">
-
 </div>
 
 ---
