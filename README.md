@@ -65,7 +65,6 @@ I enjoy building practical web applications, learning modern technologies, and s
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws" alt="Git, GitHub, VS Code, Vercel, Netlify, AWS">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </p>
 
 ### 🔗 APIs & AI Tools
