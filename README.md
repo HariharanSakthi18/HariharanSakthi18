@@ -24,7 +24,7 @@ I enjoy building practical web applications, learning modern technologies, and s
 ---
 
 ## 👨‍💻 About Me
-<div align="left">
+
 - 🎓 Currently pursuing Master of Computer Applications (MCA) at K.S. Rangasamy College of Technology.
 - 🎓 Graduated with a B.Sc. in Information Technology from KPR College of Arts, Science and Research.
 - 🤖 Currently working as an AI Full Stack Engineer Intern at Artificial Augment Technologies, Salem.
@@ -34,7 +34,7 @@ I enjoy building practical web applications, learning modern technologies, and s
 - 📍 Based in Tamil Nadu, India.
 - 🎯 Career goal: To contribute to a development team, learn from real-world projects, and grow as a software engineer.
 
-</div>
+
 
 ---
 
