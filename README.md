@@ -131,21 +131,17 @@ I have also worked on projects including a DMart-inspired shopping website, Gami
 
 I'm interested in connecting with developers, learning from experienced professionals, and exploring entry-level software development opportunities.
 
-<div align="center">
-  <a href="mailto:hariharansakthivel18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hariharansakthivel18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
-  </a>
-  <a href="https://www.linkedin.com/in/hariharan-s-30031a248/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-  <a href="(https://www.linkedin.com/in/hariharan-s-30031a248/)">
+<div align="center"> 
+<a href="https://www.linkedin.com/in/hariharan-s-30031a248/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-  <a href="https://www.instagram.com/__hariharan.___/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  
+<a href="https://www.instagram.com/__hariharan.___/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
 <a href="https://portfolio-hariharan-website.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </a>
   <br><br>
   <i>"Keep learning, keep building, and keep improving."</i>
